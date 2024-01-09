@@ -18,7 +18,11 @@
 <ul>
   <li><b>Front-end</b> : HTML, CSS, Tailwind, Javascript, React</li>
   <li><b>Back-end</b> : Node.js, Express.js, MongoDB, PostgreSQL</li>
-  <li><b>Other</b> : Git, Postman</li>
+</ul>
+
+### Other
+<ul>
+  <li>Git</li>
 </ul>
 
 <div>
