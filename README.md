@@ -9,7 +9,7 @@ I used to be sales manager in the financial industry. But now I'm a Software Dev
 </ul>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/aumphol-kao-ian-a988a1269/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.linkedin.com/in/aumphol-kao-ian"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   
 </div>
 
