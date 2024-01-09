@@ -1,8 +1,9 @@
 # Hi, I'm Pipo 👋                                                           <img align="right" src="https://komarev.com/ghpvc/?username=PIPOAUMPHOL&style=flat-square&color=blue" alt=""/>
+## Software Developer Trainee
 ### About me
+I used to be sales manager in the financial industry. But now I'm a Software Developer Trainee at TechUp Bootcamp. My next goal is a good full-stack dev and studied a second bachelor's degree in computer science.
 
-<ul>
-  <li>I'm a Software Developer Trainee at TechUp Bootcamp.</li>
+<ul> 
   <li>I'm based in Bangkok, Thailand</li>
   <li>You can contact me at <a href="https://github.com/PIPOAUMPHOL">aumphol.kaoi@gmail.com</a></li>
 </ul>
