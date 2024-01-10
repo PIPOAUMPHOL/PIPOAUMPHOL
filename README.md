@@ -1,4 +1,4 @@
-# Hi, I'm Pipo 👋                                                           <img align="right" src="https://komarev.com/ghpvc/?username=PIPOAUMPHOL&style=flat-square&color=blue" alt=""/>
+# Hi, I'm Pipo 👋                                                          
 ## Software Developer Trainee
 ### About me
 I used to be sales manager in the financial industry. But now I'm a Software Developer Trainee at TechUp Bootcamp. My next goal is a good full-stack dev and studied a second bachelor's degree in computer science.
@@ -10,7 +10,6 @@ I used to be sales manager in the financial industry. But now I'm a Software Dev
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/aumphol-kao-ian"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  
 </div>
 
 ## 💻 Tech Stack
@@ -47,7 +46,6 @@ I used to be sales manager in the financial industry. But now I'm a Software Dev
 [![Github Status](https://github-readme-stats.vercel.app/api?username=PIPOAUMPHOL&count_private=true&theme=onedark&show_icons=true)](https://github.com/PIPOAUMPHOL)
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PIPOAUMPHOL&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=f5f5f5)](https://github.com/mikkipastel)
-
 
 
 
