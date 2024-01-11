@@ -17,13 +17,12 @@ I used to be sales manager in the financial industry. But now I'm a Software Dev
 ### Web Development
 <ul>
   <li><b>Front-end</b> : HTML, CSS, Tailwind, Javascript, React</li>
-  <li><b>Back-end</b> : Node.js, Express.js, MongoDB, PostgreSQL</li>
+  <li><b>Back-end</b> : Node.js, Express.js, MongoDB, PostgreSQL, Java (In Process ...)</li>
 </ul>
 
 ### Other
 <ul>
   <li>Git</li>
-  <li>Java (In Process ...)</li>
 </ul>
 
 <div>
