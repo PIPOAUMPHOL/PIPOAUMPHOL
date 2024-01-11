@@ -23,6 +23,7 @@ I used to be sales manager in the financial industry. But now I'm a Software Dev
 ### Other
 <ul>
   <li>Git</li>
+  <li>Java (In Process ...)</li>
 </ul>
 
 <div>
