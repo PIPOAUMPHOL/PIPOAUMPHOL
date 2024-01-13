@@ -1,7 +1,7 @@
 # Hi, I'm Pipo 👋                                                          
 ## Software Developer Trainee
 ### About me
-I used to be sales manager in the financial industry. But now I'm a Software Developer Trainee at TechUp Bootcamp. My next goal is a good full-stack dev and studied a second bachelor's degree in computer science.
+I was previously employed in the financial industry. But now I'm a Software Developer Trainee at TechUp Bootcamp. My next goal is a good full-stack dev and studied a second bachelor's degree in computer science.
 
 <ul> 
   <li>I'm based in Bangkok, Thailand</li>
