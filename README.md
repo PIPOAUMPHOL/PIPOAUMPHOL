@@ -23,6 +23,7 @@ I was previously employed in the financial industry. But now I'm a Software Deve
 ### Other
 <ul>
   <li>Git</li>
+  <li>Software Testing</li>
 </ul>
 
 <div>
