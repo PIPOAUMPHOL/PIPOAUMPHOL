@@ -17,7 +17,7 @@ I was previously employed in the financial industry. But now I'm a Software Deve
 ### Web Development
 <ul>
   <li><b>Front-end</b> : HTML, CSS, Tailwind, Javascript, React</li>
-  <li><b>Back-end</b> : Node.js, Express.js, MongoDB, PostgreSQL, Java (In Process ...)</li>
+  <li><b>Back-end</b> : Node.js, Express.js, MongoDB, PostgreSQL, C# (In Process ...)</li>
 </ul>
 
 ### Other
