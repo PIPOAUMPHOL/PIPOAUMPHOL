@@ -17,13 +17,14 @@ I was previously employed in the financial industry. But now I'm a Software Deve
 ### Web Development
 <ul>
   <li><b>Front-end</b> : HTML, CSS, Tailwind, Javascript, React</li>
-  <li><b>Back-end</b> : Node.js, Express.js, MongoDB, PostgreSQL, C# (In Process ...)</li>
+  <li><b>Back-end</b> : Node.js, Express.js, MongoDB, PostgreSQL</li>
 </ul>
 
 ### Other
 <ul>
   <li>Git</li>
   <li>Software Testing</li>
+  <li>C#</li>
 </ul>
 
 <div>
@@ -37,8 +38,8 @@ I was previously employed in the financial industry. But now I'm a Software Deve
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  
-  
+ <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+
   
 </div>
 
