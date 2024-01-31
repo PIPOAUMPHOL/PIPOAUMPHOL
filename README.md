@@ -1,8 +1,8 @@
 # Hi, I'm Pipo 👋                                                          
-## Software Developer Trainee
+## Junior Developer (C#)
 ### About me
-I was previously employed in the financial industry. But now I'm a Software Developer Trainee at TechUp Bootcamp. My next goal is a good full-stack dev and studied a second bachelor's degree in computer science.
-
+I was previously employed in the financial industry. But now I'm a Junnior Developer (C#). My next goal is a good full-stack dev and studied a second bachelor's degree in computer science.
+<!-- But now I'm a Software Developer Trainee at TechUp Bootcamp Software Developer Trainee-->
 <ul> 
   <li>I'm based in Bangkok, Thailand</li>
   <li>You can contact me at <a href="https://github.com/PIPOAUMPHOL">aumphol.kaoi@gmail.com</a></li>
