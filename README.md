@@ -1,7 +1,7 @@
 # Hi, I'm Pipo 👋                                                          
-## Junior Developer (C#)
+## Junior Developer
 ### About me
-I was previously employed in the financial industry. But now I'm a Junnior Developer (C#). My next goal is a good full-stack dev and studied a second bachelor's degree in computer science.
+I was previously employed in the financial industry. But now I'm a Junnior Developer. My next goal is a good full-stack dev and studied a second bachelor's degree in computer science.
 <!-- But now I'm a Software Developer Trainee at TechUp Bootcamp Software Developer Trainee-->
 <ul> 
   <li>I'm based in Bangkok, Thailand</li>
